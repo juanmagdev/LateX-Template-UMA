@@ -41,5 +41,5 @@ El archivo `relacion_ejercicios.pdf` contiene un preview con un ejercicio de mé
 
 ## Contribución
 
-Si deseas contribuir a este repositorio, puedes hacerlo enviando una pull request. Se aceptarán mejoras en cualquier aspecto de la plantilla, incluyendo errores, problemas de claridad, sugerencias de nuevos ejemplos o ejercicios, y mejoras en la personalización de la plantilla.
+Si deseas contribuir a este repositorio, puedes hacerlo enviando una pull request. Se aceptarán mejoras en cualquier aspecto de la plantilla, incluyendo errores, problemas de claridad y mejoras en la personalización de la plantilla.
 
