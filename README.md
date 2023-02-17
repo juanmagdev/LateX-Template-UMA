@@ -8,7 +8,7 @@ El repositorio contiene los siguientes archivos:
 
 - `relacion_ejercicios.tex`: plantilla en LaTeX para resolver relaciones de ejercicios de matemáticas.
 - `relacion_ejercicios.pdf`: archivo con un preview de la plantilla para que puedas ver cómo quedan los ejercicios resueltos.
-- La carpeta `figs`: contiene el logo de la universidad en formato ".pdf".
+- La carpeta `figs`: contiene el logo de la Universidad de Málaga (UMA) en formato ".pdf".
 
 ## Uso de la Plantilla
 
